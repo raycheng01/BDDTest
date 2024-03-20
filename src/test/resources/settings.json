@@ -15,7 +15,7 @@
         "profile.default_content_settings.popups": "0",
         "disable-popup-blocking": "true",
         "download.prompt_for_download": "false",
-        "download.default_directory": "./src/test/resources"
+        "download.default_directory": "./Downloads"
       },
       "loggingPreferences": {
         "Performance": "All"

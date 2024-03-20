@@ -14,7 +14,6 @@ public class Hooks {
 
     @Before()
     public void setup(){
-
         browser = AqualityServices.getBrowser();
         browser.maximize();
         browser.goTo(SettingsTestData.getEnvData().getHost());
