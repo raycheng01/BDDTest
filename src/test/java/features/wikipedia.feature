@@ -7,24 +7,24 @@ Feature: Wikipedia
 
   Background: Search Albert Einstein
     Given The main page is displayed
-    And I input "Albert Einstein" in the search field
+    Then I input "Albert Einstein" in the search field
 
   Scenario: Click the Download PDF
-    And I click the submit Button
+    Given I click the submit Button
     And I click the Tool Menu Button
     When I click the Download as PDF Button
-    Then I click the Download button
+    And I click the Download button
     And The file was downloaded
 
   Scenario: Click the Page Information
-    And I click the submit Button
+    Given I click the submit Button
     And I click the Tool Menu Button
     When I click the Page Information
-    And The page is displayed
+    Then The page for "Albert Einstein" is displayed
 
   Scenario: Change search language
-    When I click the language button
-    And I change the language
+    Given I click the language button
+    And I change the language to Spanish
     And I click the submit Button
-    Then the page is displayed
+    Then The page for "Albert Einstein" is displayed
 
