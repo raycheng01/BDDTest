@@ -1,0 +1,1510 @@
+2024-03-15 20:51:05 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-15 20:51:05 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-15 20:51:07 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-15 20:51:07 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-15 20:51:07 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-15 20:51:07 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-15 20:51:07 INFO  - Browser 'CHROME' ready...
+2024-03-15 20:51:07 INFO  - Browser 'CHROME' ready...
+2024-03-15 20:51:07 INFO  - Maximizing browser window
+2024-03-15 20:51:07 INFO  - Maximizing browser window
+2024-03-15 20:51:08 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2024-03-15 20:51:08 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2024-03-15 20:51:09 INFO  - Link 'JavaScript Alerts' :: Clicking
+2024-03-15 20:51:09 INFO  - Link 'Sortable Data Tables' :: Clicking
+2024-03-15 20:51:09 INFO  - Button 'Click for JS alert' :: Clicking
+2024-03-15 20:51:09 INFO  - Accepting browser alert
+2024-03-15 20:51:09 INFO  - Closing browser
+2024-03-15 20:51:09 INFO  - Label 'due 1' :: Getting text from element
+2024-03-15 20:51:09 INFO  - Label 'due 1' :: Element's text: [$50.00]
+2024-03-15 20:51:09 INFO  - Label 'due 2' :: Getting text from element
+2024-03-15 20:51:09 INFO  - Label 'due 2' :: Element's text: [$51.00]
+2024-03-15 20:51:09 INFO  - Label 'due 3' :: Getting text from element
+2024-03-15 20:51:09 INFO  - Label 'due 3' :: Element's text: [$100.00]
+2024-03-15 20:51:09 INFO  - Label 'due 4' :: Getting text from element
+2024-03-15 20:51:09 INFO  - Label 'due 4' :: Element's text: [$50.00]
+2024-03-15 20:51:09 INFO  - Closing browser
+2024-03-15 20:55:08 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-15 20:55:08 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-15 20:55:09 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-15 20:55:09 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-15 20:55:09 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-15 20:55:09 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-15 20:55:09 INFO  - Browser 'CHROME' ready...
+2024-03-15 20:55:09 INFO  - Browser 'CHROME' ready...
+2024-03-15 20:55:09 INFO  - Maximizing browser window
+2024-03-15 20:55:09 INFO  - Maximizing browser window
+2024-03-15 20:55:10 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2024-03-15 20:55:10 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2024-03-15 20:55:10 INFO  - Link 'Sortable Data Tables' :: Clicking
+2024-03-15 20:55:10 INFO  - Link 'JavaScript Alerts' :: Clicking
+2024-03-15 20:55:11 INFO  - Button 'Click for JS alert' :: Clicking
+2024-03-15 20:55:11 INFO  - Accepting browser alert
+2024-03-15 20:55:11 INFO  - Closing browser
+2024-03-15 20:55:11 INFO  - Label 'due 1' :: Getting text from element
+2024-03-15 20:55:11 INFO  - Label 'due 1' :: Element's text: [$50.00]
+2024-03-15 20:55:11 INFO  - Label 'due 2' :: Getting text from element
+2024-03-15 20:55:11 INFO  - Label 'due 2' :: Element's text: [$51.00]
+2024-03-15 20:55:11 INFO  - Label 'due 3' :: Getting text from element
+2024-03-15 20:55:11 INFO  - Label 'due 3' :: Element's text: [$100.00]
+2024-03-15 20:55:11 INFO  - Label 'due 4' :: Getting text from element
+2024-03-15 20:55:11 INFO  - Label 'due 4' :: Element's text: [$50.00]
+2024-03-15 20:55:11 INFO  - Closing browser
+2024-03-15 20:56:13 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-15 20:56:13 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-15 20:56:14 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-15 20:56:14 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-15 20:56:14 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-15 20:56:14 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-15 20:56:14 INFO  - Browser 'CHROME' ready...
+2024-03-15 20:56:14 INFO  - Browser 'CHROME' ready...
+2024-03-15 20:56:14 INFO  - Maximizing browser window
+2024-03-15 20:56:14 INFO  - Maximizing browser window
+2024-03-15 20:56:15 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2024-03-15 20:56:15 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2024-03-15 20:56:15 INFO  - Link 'JavaScript Alerts' :: Clicking
+2024-03-15 20:56:16 INFO  - Link 'Sortable Data Tables' :: Clicking
+2024-03-15 20:56:16 INFO  - Button 'Click for JS alert' :: Clicking
+2024-03-15 20:56:16 INFO  - Accepting browser alert
+2024-03-15 20:56:16 INFO  - Closing browser
+2024-03-15 20:56:16 INFO  - Label 'due 1' :: Getting text from element
+2024-03-15 20:56:16 INFO  - Label 'due 1' :: Element's text: [$50.00]
+2024-03-15 20:56:16 INFO  - Label 'due 2' :: Getting text from element
+2024-03-15 20:56:16 INFO  - Label 'due 2' :: Element's text: [$51.00]
+2024-03-15 20:56:16 INFO  - Label 'due 3' :: Getting text from element
+2024-03-15 20:56:16 INFO  - Label 'due 3' :: Element's text: [$100.00]
+2024-03-15 20:56:16 INFO  - Label 'due 4' :: Getting text from element
+2024-03-15 20:56:16 INFO  - Label 'due 4' :: Element's text: [$50.00]
+2024-03-15 20:56:16 INFO  - Closing browser
+2024-03-20 00:29:24 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 00:29:24 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 00:29:34 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 00:29:34 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 00:29:34 INFO  - Browser 'CHROME' ready...
+2024-03-20 00:29:34 INFO  - Maximizing browser window
+2024-03-20 00:29:35 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 00:29:36 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 00:29:36 INFO  - Closing browser
+2024-03-20 00:39:43 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 00:39:43 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 00:39:45 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 00:39:45 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 00:39:45 INFO  - Browser 'CHROME' ready...
+2024-03-20 00:39:45 INFO  - Maximizing browser window
+2024-03-20 00:39:45 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 00:39:46 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 00:39:46 INFO  - Closing browser
+2024-03-20 00:52:00 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 00:52:00 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 00:52:02 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 00:52:02 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 00:52:02 INFO  - Browser 'CHROME' ready...
+2024-03-20 00:52:02 INFO  - Maximizing browser window
+2024-03-20 00:52:02 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 00:52:03 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 00:52:03 INFO  - Closing browser
+2024-03-20 00:54:08 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 00:54:09 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 00:54:10 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 00:54:10 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 00:54:10 INFO  - Browser 'CHROME' ready...
+2024-03-20 00:54:10 INFO  - Maximizing browser window
+2024-03-20 00:54:10 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 00:54:11 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 00:54:11 INFO  - Closing browser
+2024-03-20 00:56:34 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 00:56:34 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 00:56:35 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 00:56:35 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 00:56:35 INFO  - Browser 'CHROME' ready...
+2024-03-20 00:56:35 INFO  - Maximizing browser window
+2024-03-20 00:56:35 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 00:56:36 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 00:56:36 INFO  - Closing browser
+2024-03-20 01:00:26 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 01:00:26 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 01:00:28 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 01:00:28 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 01:00:28 INFO  - Browser 'CHROME' ready...
+2024-03-20 01:00:28 INFO  - Maximizing browser window
+2024-03-20 01:00:28 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 01:00:29 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 01:00:29 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 01:00:29 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 01:00:29 INFO  - Closing browser
+2024-03-20 01:01:03 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 01:01:03 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 01:01:05 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 01:01:05 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 01:01:05 INFO  - Browser 'CHROME' ready...
+2024-03-20 01:01:05 INFO  - Maximizing browser window
+2024-03-20 01:01:05 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 01:01:06 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 01:01:06 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 01:01:06 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 01:02:02 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 01:02:02 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 01:02:04 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 01:02:04 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 01:02:04 INFO  - Browser 'CHROME' ready...
+2024-03-20 01:02:04 INFO  - Maximizing browser window
+2024-03-20 01:02:04 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 01:02:05 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 01:02:05 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 01:02:05 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 01:05:15 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 01:05:15 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 01:05:17 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 01:05:17 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 01:05:17 INFO  - Browser 'CHROME' ready...
+2024-03-20 01:05:17 INFO  - Maximizing browser window
+2024-03-20 01:05:17 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 01:05:18 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 01:05:18 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 01:05:18 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 01:05:20 INFO  - Button 'Tools Button' :: Clicking
+2024-03-20 01:06:41 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 01:06:41 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 01:06:43 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 01:06:43 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 01:06:43 INFO  - Browser 'CHROME' ready...
+2024-03-20 01:06:43 INFO  - Maximizing browser window
+2024-03-20 01:06:43 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 01:06:44 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 01:06:44 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 01:06:44 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 01:06:46 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 01:10:25 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 01:10:25 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 01:10:27 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 01:10:27 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 01:10:27 INFO  - Browser 'CHROME' ready...
+2024-03-20 01:10:27 INFO  - Maximizing browser window
+2024-03-20 01:10:27 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 01:10:28 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 01:10:28 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 01:10:28 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 01:10:30 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 01:11:16 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 01:11:16 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 01:11:17 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 01:11:17 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 01:11:17 INFO  - Browser 'CHROME' ready...
+2024-03-20 01:11:17 INFO  - Maximizing browser window
+2024-03-20 01:11:18 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 01:11:19 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 01:11:19 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 01:11:19 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 01:11:20 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 01:11:20 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 01:11:34 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 01:11:34 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 01:11:36 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 01:11:36 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 01:11:36 INFO  - Browser 'CHROME' ready...
+2024-03-20 01:11:36 INFO  - Maximizing browser window
+2024-03-20 01:11:36 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 01:11:37 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 01:11:37 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 01:11:37 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 01:11:38 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 01:14:40 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 01:14:40 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 01:14:42 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 01:14:42 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 01:14:42 INFO  - Browser 'CHROME' ready...
+2024-03-20 01:14:42 INFO  - Maximizing browser window
+2024-03-20 01:14:42 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 01:14:43 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 01:14:43 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 01:14:43 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 01:14:44 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 01:17:53 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 01:17:53 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 01:17:55 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 01:17:55 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 01:17:55 INFO  - Browser 'CHROME' ready...
+2024-03-20 01:17:55 INFO  - Maximizing browser window
+2024-03-20 01:17:55 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 01:17:56 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 01:17:56 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 01:17:56 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 01:17:58 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 01:18:30 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 01:18:30 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 01:18:32 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 01:18:32 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 01:18:32 INFO  - Browser 'CHROME' ready...
+2024-03-20 01:18:32 INFO  - Maximizing browser window
+2024-03-20 01:18:32 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 01:18:33 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 01:18:33 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 01:18:33 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 01:18:35 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 01:18:58 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 01:18:58 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 01:19:00 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 01:19:00 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 01:19:00 INFO  - Browser 'CHROME' ready...
+2024-03-20 01:19:00 INFO  - Maximizing browser window
+2024-03-20 01:19:00 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 01:19:01 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 01:19:01 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 01:19:01 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 01:19:03 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 01:19:03 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 01:21:30 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 01:21:30 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 01:21:31 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 01:21:31 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 01:21:31 INFO  - Browser 'CHROME' ready...
+2024-03-20 01:21:31 INFO  - Maximizing browser window
+2024-03-20 01:21:32 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 01:21:33 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 01:21:33 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 01:21:33 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 01:21:34 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 01:21:34 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 01:21:35 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 08:47:32 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 08:47:32 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 08:47:35 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 08:47:35 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 08:47:35 INFO  - Browser 'CHROME' ready...
+2024-03-20 08:47:35 INFO  - Maximizing browser window
+2024-03-20 08:47:35 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 08:47:36 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 08:47:36 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 08:47:36 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 08:47:38 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 08:47:38 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 08:47:39 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 08:49:11 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 08:49:11 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 08:49:13 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 08:49:13 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 08:49:13 INFO  - Browser 'CHROME' ready...
+2024-03-20 08:49:13 INFO  - Maximizing browser window
+2024-03-20 08:49:13 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 08:49:14 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 08:49:14 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 08:49:14 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 08:49:16 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 08:49:16 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 08:49:16 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 08:50:59 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 08:50:59 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 08:51:01 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 08:51:01 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 08:51:01 INFO  - Browser 'CHROME' ready...
+2024-03-20 08:51:01 INFO  - Maximizing browser window
+2024-03-20 08:51:01 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 08:51:02 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 08:51:02 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 08:51:02 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 08:51:04 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 08:51:04 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 08:51:04 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 08:51:58 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 08:51:58 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 08:52:00 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 08:52:00 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 08:52:00 INFO  - Browser 'CHROME' ready...
+2024-03-20 08:52:00 INFO  - Maximizing browser window
+2024-03-20 08:52:00 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 08:52:01 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 08:52:01 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 08:52:01 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 08:52:03 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 08:52:03 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 08:52:03 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 08:53:42 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-20 08:53:42 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 08:53:43 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 08:53:43 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 08:53:43 INFO  - Browser 'CHROME' ready...
+2024-03-20 08:53:43 INFO  - Maximizing browser window
+2024-03-20 08:53:44 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 08:53:44 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 08:53:44 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 08:53:45 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 08:53:46 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 08:53:46 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 08:53:47 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 08:55:53 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-03-20 08:55:54 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 08:55:55 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 08:55:55 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 08:55:55 INFO  - Browser 'CHROME' ready...
+2024-03-20 08:55:55 INFO  - Maximizing browser window
+2024-03-20 08:55:55 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 08:55:56 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 08:55:56 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 08:55:56 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 08:55:58 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 08:55:58 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 08:55:59 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 08:56:58 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=D:/Downloads}
+2024-03-20 08:56:58 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 08:56:59 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 08:56:59 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 08:56:59 INFO  - Browser 'CHROME' ready...
+2024-03-20 08:56:59 INFO  - Maximizing browser window
+2024-03-20 08:57:00 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 08:57:01 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 08:57:01 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 08:57:01 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 08:57:02 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 08:57:02 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 08:57:03 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 08:58:06 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 08:58:06 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 08:58:08 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 08:58:08 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 08:58:08 INFO  - Browser 'CHROME' ready...
+2024-03-20 08:58:08 INFO  - Maximizing browser window
+2024-03-20 08:58:08 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 08:58:09 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 08:58:09 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 08:58:09 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 08:58:11 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 08:58:11 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 08:58:12 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 08:59:09 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 08:59:09 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 08:59:11 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 08:59:11 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 08:59:11 INFO  - Browser 'CHROME' ready...
+2024-03-20 08:59:11 INFO  - Maximizing browser window
+2024-03-20 08:59:11 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 08:59:12 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 08:59:12 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 08:59:12 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 08:59:13 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 08:59:14 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 08:59:14 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 09:01:07 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:01:07 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:01:09 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:01:09 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:01:09 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:01:09 INFO  - Maximizing browser window
+2024-03-20 09:01:09 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:01:10 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 09:01:10 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:01:10 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:01:12 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:01:12 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 09:01:13 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 09:02:33 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:02:33 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:02:35 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:02:35 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:02:35 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:02:35 INFO  - Maximizing browser window
+2024-03-20 09:02:35 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:02:36 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 09:02:36 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:02:36 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:02:38 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:02:38 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 09:02:39 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 09:03:05 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:03:05 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:03:07 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:03:07 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:03:07 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:03:07 INFO  - Maximizing browser window
+2024-03-20 09:03:07 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:03:08 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 09:03:08 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:03:08 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:03:11 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:03:11 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 09:03:11 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 09:04:13 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:04:13 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:04:15 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:04:15 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:04:15 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:04:15 INFO  - Maximizing browser window
+2024-03-20 09:04:15 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:04:16 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 09:04:16 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:04:16 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:04:18 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:04:18 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 09:04:19 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 09:08:56 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:08:56 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:08:58 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:08:58 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:08:58 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:08:58 INFO  - Maximizing browser window
+2024-03-20 09:08:58 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:08:59 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 09:08:59 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:08:59 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:09:01 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:09:01 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 09:09:02 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 09:16:59 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:16:59 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:17:00 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:17:00 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:17:00 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:17:00 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:17:00 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:17:00 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:17:00 INFO  - Maximizing browser window
+2024-03-20 09:17:00 INFO  - Maximizing browser window
+2024-03-20 09:17:01 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:17:01 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:17:02 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 09:17:02 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 09:17:02 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:17:02 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:17:02 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:17:02 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:17:04 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:17:04 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:17:04 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 09:17:04 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-20 09:17:05 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 09:17:57 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:17:57 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:17:58 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:17:58 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:17:58 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:17:58 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:17:58 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:17:58 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:17:58 INFO  - Maximizing browser window
+2024-03-20 09:17:58 INFO  - Maximizing browser window
+2024-03-20 09:17:59 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:17:59 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:18:00 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 09:18:00 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 09:18:00 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:18:00 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:18:00 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:18:00 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:18:01 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:18:01 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:18:01 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-20 09:18:01 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 09:18:02 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 09:18:02 DEBUG - No elements with locator 'By.xpath: //*[text()='Wikipedia']' were found in DISPLAYED state
+2024-03-20 09:18:35 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:18:35 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:18:37 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:18:37 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:18:37 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:18:37 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:18:37 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:18:37 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:18:37 INFO  - Maximizing browser window
+2024-03-20 09:18:37 INFO  - Maximizing browser window
+2024-03-20 09:18:37 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:18:37 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:18:38 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 09:18:38 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 09:18:38 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:18:38 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:18:38 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:18:38 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:18:39 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:18:39 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 09:18:39 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:18:40 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-20 09:18:41 DEBUG - No elements with locator 'By.xpath: //*[text()='Wikipedia']' were found in DISPLAYED state
+2024-03-20 09:18:41 DEBUG - No elements with locator 'By.xpath: //*[text()='Wikipedia']' were found in DISPLAYED state
+2024-03-20 09:18:42 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 09:19:26 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:19:26 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:19:28 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:19:28 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:19:28 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:19:28 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:19:28 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:19:28 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:19:28 INFO  - Maximizing browser window
+2024-03-20 09:19:28 INFO  - Maximizing browser window
+2024-03-20 09:19:28 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:19:28 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:19:29 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 09:19:29 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 09:19:29 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 09:19:29 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 09:19:29 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:19:29 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:19:29 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:19:29 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:19:30 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:19:31 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 09:19:31 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:19:31 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-20 09:19:31 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 09:19:32 DEBUG - No elements with locator 'By.xpath: //*[text()='Wikipedia']' were found in DISPLAYED state
+2024-03-20 09:19:32 DEBUG - No elements with locator 'By.xpath: //*[text()='Wikipedia']' were found in DISPLAYED state
+2024-03-20 09:22:35 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:22:35 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:22:37 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:22:37 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:22:37 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:22:37 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:22:37 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:22:37 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:22:37 INFO  - Maximizing browser window
+2024-03-20 09:22:37 INFO  - Maximizing browser window
+2024-03-20 09:22:37 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:22:37 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:22:38 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 09:22:38 DEBUG - Elements were found by locator 'By.xpath: //*[text()='Wikipedia']' but not in desired state DISPLAYED
+2024-03-20 09:22:38 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:22:38 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:22:38 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:22:38 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:22:40 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:22:40 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:22:40 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 09:22:40 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-20 09:22:40 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 09:22:41 DEBUG - No elements with locator 'By.xpath: //*[text()='Wikipedia']' were found in DISPLAYED state
+2024-03-20 09:25:02 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:25:02 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:25:04 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:25:04 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:25:04 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:25:04 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:25:04 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:25:04 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:25:04 INFO  - Maximizing browser window
+2024-03-20 09:25:04 INFO  - Maximizing browser window
+2024-03-20 09:25:04 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:25:04 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:25:05 DEBUG - No elements with locator 'By.xpath: //span[@class='mw-logo-container']' were found in DISPLAYED state
+2024-03-20 09:25:05 DEBUG - No elements with locator 'By.xpath: //span[@class='mw-logo-container']' were found in DISPLAYED state
+2024-03-20 09:25:05 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:25:05 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:25:05 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:25:05 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:25:07 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:25:07 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:25:07 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 09:25:07 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-20 09:25:08 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 09:25:48 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:25:48 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:25:49 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:25:49 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:25:49 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:25:49 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:25:49 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:25:49 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:25:49 INFO  - Maximizing browser window
+2024-03-20 09:25:49 INFO  - Maximizing browser window
+2024-03-20 09:25:50 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:25:50 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:25:51 DEBUG - No elements with locator 'By.xpath: //span[@class='mw-logo-container']' were found in DISPLAYED state
+2024-03-20 09:25:51 DEBUG - No elements with locator 'By.xpath: //span[@class='mw-logo-container']' were found in DISPLAYED state
+2024-03-20 09:25:51 DEBUG - No elements with locator 'By.xpath: //span[@class='mw-logo-container']' were found in DISPLAYED state
+2024-03-20 09:25:51 DEBUG - No elements with locator 'By.xpath: //span[@class='mw-logo-container']' were found in DISPLAYED state
+2024-03-20 09:25:51 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:25:51 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:25:51 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:25:51 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:25:52 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:25:52 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 09:25:52 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:25:53 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-20 09:25:53 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 09:26:50 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:26:50 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:26:51 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:26:51 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:26:51 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:26:51 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:26:51 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:26:51 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:26:51 INFO  - Maximizing browser window
+2024-03-20 09:26:51 INFO  - Maximizing browser window
+2024-03-20 09:26:52 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:26:52 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:26:52 DEBUG - No elements with locator 'By.xpath: //span[@class='mw-logo-container']' were found in DISPLAYED state
+2024-03-20 09:26:52 DEBUG - No elements with locator 'By.xpath: //span[@class='mw-logo-container']' were found in DISPLAYED state
+2024-03-20 09:26:52 DEBUG - No elements with locator 'By.xpath: //span[@class='mw-logo-container']' were found in DISPLAYED state
+2024-03-20 09:26:52 DEBUG - No elements with locator 'By.xpath: //span[@class='mw-logo-container']' were found in DISPLAYED state
+2024-03-20 09:31:16 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:31:16 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:31:18 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:31:18 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:31:18 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:31:18 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:31:18 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:31:18 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:31:18 INFO  - Maximizing browser window
+2024-03-20 09:31:18 INFO  - Maximizing browser window
+2024-03-20 09:31:18 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:31:18 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:31:52 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:31:52 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:31:53 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:31:53 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:31:53 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:31:53 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:31:53 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:31:53 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:31:53 INFO  - Maximizing browser window
+2024-03-20 09:31:53 INFO  - Maximizing browser window
+2024-03-20 09:31:54 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:31:54 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:31:55 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:31:55 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:31:55 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:31:55 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:31:57 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:31:57 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:31:57 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-20 09:31:57 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 09:31:58 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 09:46:01 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:46:01 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:46:02 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:46:02 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:46:02 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:46:02 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:46:02 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:46:02 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:46:02 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:46:02 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:46:02 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:46:02 INFO  - Maximizing browser window
+2024-03-20 09:46:02 INFO  - Maximizing browser window
+2024-03-20 09:46:02 INFO  - Maximizing browser window
+2024-03-20 09:46:02 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:46:02 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:46:02 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:46:03 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:46:03 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:46:03 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:46:04 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:46:04 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:46:05 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:46:05 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:46:05 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-20 09:46:05 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 09:46:06 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 09:46:36 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:46:36 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:46:38 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:46:38 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:46:38 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:46:38 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:46:38 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:46:38 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:46:38 INFO  - Maximizing browser window
+2024-03-20 09:46:38 INFO  - Maximizing browser window
+2024-03-20 09:46:38 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:46:38 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:46:39 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:46:39 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:46:39 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:46:39 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:46:41 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:46:41 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:46:41 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-20 09:46:41 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 09:46:42 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 09:50:42 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:50:42 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:50:43 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:50:43 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:50:43 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:50:43 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:50:43 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:50:43 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:50:43 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:50:43 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:50:43 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:50:43 INFO  - Maximizing browser window
+2024-03-20 09:50:43 INFO  - Maximizing browser window
+2024-03-20 09:50:43 INFO  - Maximizing browser window
+2024-03-20 09:50:44 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:50:44 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:50:44 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:50:45 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:50:45 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:50:45 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:50:45 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:50:45 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:50:45 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:50:46 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:50:47 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:50:47 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 09:50:47 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-20 09:50:47 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 09:54:27 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:54:27 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:54:29 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:54:29 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:54:29 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:54:29 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:54:29 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:54:29 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:54:29 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:54:29 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:54:29 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:54:29 INFO  - Maximizing browser window
+2024-03-20 09:54:29 INFO  - Maximizing browser window
+2024-03-20 09:54:29 INFO  - Maximizing browser window
+2024-03-20 09:54:29 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:54:29 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:54:29 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:55:18 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 09:55:18 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 09:55:20 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:55:20 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:55:20 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 09:55:20 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:55:20 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:55:20 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 09:55:20 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:55:20 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:55:20 INFO  - Browser 'CHROME' ready...
+2024-03-20 09:55:20 INFO  - Maximizing browser window
+2024-03-20 09:55:20 INFO  - Maximizing browser window
+2024-03-20 09:55:20 INFO  - Maximizing browser window
+2024-03-20 09:55:20 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:55:20 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:55:20 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 09:55:21 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:55:21 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:55:21 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 09:55:21 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:55:21 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:55:21 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 09:55:23 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:55:23 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 09:55:23 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 09:55:23 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-20 09:55:24 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 10:07:40 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 10:07:40 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 10:07:42 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 10:07:42 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 10:07:42 INFO  - Browser 'CHROME' ready...
+2024-03-20 10:07:42 INFO  - Maximizing browser window
+2024-03-20 10:07:42 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 10:07:43 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 10:07:43 INFO  - Button 'Language Button' :: Clicking
+2024-03-20 10:07:43 INFO  - Label 'Español Label' :: Clicking
+2024-03-20 10:07:43 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 10:08:05 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 10:08:05 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 10:08:07 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 10:08:07 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 10:08:07 INFO  - Browser 'CHROME' ready...
+2024-03-20 10:08:07 INFO  - Maximizing browser window
+2024-03-20 10:08:07 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 10:08:08 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 10:08:08 INFO  - Button 'Language Button' :: Clicking
+2024-03-20 10:08:08 INFO  - Label 'Español Label' :: Clicking
+2024-03-20 10:08:08 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 10:08:58 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 10:08:58 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 10:08:59 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 10:08:59 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 10:08:59 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 10:08:59 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 10:08:59 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 10:08:59 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 10:08:59 INFO  - Browser 'CHROME' ready...
+2024-03-20 10:08:59 INFO  - Browser 'CHROME' ready...
+2024-03-20 10:08:59 INFO  - Browser 'CHROME' ready...
+2024-03-20 10:08:59 INFO  - Maximizing browser window
+2024-03-20 10:08:59 INFO  - Maximizing browser window
+2024-03-20 10:08:59 INFO  - Maximizing browser window
+2024-03-20 10:08:59 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 10:08:59 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 10:08:59 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 10:09:00 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 10:09:00 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 10:09:00 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 10:09:00 INFO  - Button 'Language Button' :: Clicking
+2024-03-20 10:09:00 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 10:09:00 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 10:09:00 INFO  - Label 'Español Label' :: Clicking
+2024-03-20 10:09:01 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 10:09:02 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 10:09:02 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 10:09:02 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 10:09:02 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-20 10:09:03 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 10:10:26 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 10:10:26 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 10:10:27 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 10:10:27 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 10:10:27 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 10:10:27 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 10:10:27 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 10:10:27 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 10:10:27 INFO  - Browser 'CHROME' ready...
+2024-03-20 10:10:27 INFO  - Browser 'CHROME' ready...
+2024-03-20 10:10:27 INFO  - Browser 'CHROME' ready...
+2024-03-20 10:10:27 INFO  - Maximizing browser window
+2024-03-20 10:10:27 INFO  - Maximizing browser window
+2024-03-20 10:10:27 INFO  - Maximizing browser window
+2024-03-20 10:10:27 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 10:10:27 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 10:10:27 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 10:10:28 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 10:10:28 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 10:10:28 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 10:10:28 INFO  - Button 'Language Button' :: Clicking
+2024-03-20 10:10:28 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 10:10:28 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 10:10:28 INFO  - Label 'Español Label' :: Clicking
+2024-03-20 10:10:29 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 10:10:30 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 10:10:30 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 10:10:30 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 10:10:30 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-20 10:10:31 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 10:13:43 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 10:13:43 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 10:13:44 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 10:13:44 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 10:13:44 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 10:13:44 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 10:13:44 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 10:13:44 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 10:13:44 INFO  - Browser 'CHROME' ready...
+2024-03-20 10:13:44 INFO  - Browser 'CHROME' ready...
+2024-03-20 10:13:44 INFO  - Browser 'CHROME' ready...
+2024-03-20 10:13:44 INFO  - Maximizing browser window
+2024-03-20 10:13:44 INFO  - Maximizing browser window
+2024-03-20 10:13:44 INFO  - Maximizing browser window
+2024-03-20 10:13:44 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 10:13:44 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 10:13:44 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 10:13:45 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 10:13:45 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 10:13:45 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 10:13:46 INFO  - Button 'Language Button' :: Clicking
+2024-03-20 10:13:46 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 10:13:46 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 10:13:46 INFO  - Label 'Español Label' :: Clicking
+2024-03-20 10:13:46 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 10:13:47 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 10:13:47 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 10:13:47 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-20 10:13:47 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 10:13:48 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 10:15:51 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-20 10:15:51 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-20 10:15:53 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 10:15:53 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 10:15:53 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-20 10:15:53 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 10:15:53 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 10:15:53 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-20 10:15:53 INFO  - Browser 'CHROME' ready...
+2024-03-20 10:15:53 INFO  - Browser 'CHROME' ready...
+2024-03-20 10:15:53 INFO  - Browser 'CHROME' ready...
+2024-03-20 10:15:53 INFO  - Maximizing browser window
+2024-03-20 10:15:53 INFO  - Maximizing browser window
+2024-03-20 10:15:53 INFO  - Maximizing browser window
+2024-03-20 10:15:53 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 10:15:53 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 10:15:53 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-20 10:15:54 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 10:15:54 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 10:15:54 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-20 10:15:54 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 10:15:54 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 10:15:54 INFO  - Button 'Language Button' :: Clicking
+2024-03-20 10:15:54 INFO  - Label 'Español Label' :: Clicking
+2024-03-20 10:15:54 INFO  - Button 'Search Button' :: Clicking
+2024-03-20 10:15:56 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 10:15:56 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-20 10:15:56 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-20 10:15:56 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-20 10:15:57 INFO  - Closing browser
+2024-03-20 10:15:57 INFO  - Button 'Download Button' :: Clicking
+2024-03-20 10:15:57 INFO  - Closing browser
+2024-03-20 10:15:57 INFO  - Closing browser
+2024-03-25 22:18:47 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-25 22:18:47 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-25 22:18:50 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:18:50 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:18:50 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:18:50 INFO  - Maximizing browser window
+2024-03-25 22:18:50 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:18:51 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-25 22:18:51 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:18:53 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:18:53 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-25 22:18:54 INFO  - Button 'Download Button' :: Clicking
+2024-03-25 22:19:01 INFO  - Closing browser
+2024-03-25 22:19:57 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-25 22:19:57 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-25 22:19:59 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:19:59 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:19:59 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:19:59 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:19:59 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:19:59 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:19:59 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:19:59 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:19:59 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:19:59 INFO  - Maximizing browser window
+2024-03-25 22:19:59 INFO  - Maximizing browser window
+2024-03-25 22:19:59 INFO  - Maximizing browser window
+2024-03-25 22:19:59 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:19:59 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:19:59 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:20:00 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-25 22:20:00 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-25 22:20:00 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-25 22:20:00 INFO  - Button 'Language Button' :: Clicking
+2024-03-25 22:20:00 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:20:00 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:20:00 INFO  - Closing browser
+2024-03-25 22:20:02 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:20:02 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:20:02 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-25 22:20:02 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-25 22:20:02 INFO  - Button 'Download Button' :: Clicking
+2024-03-25 22:20:03 INFO  - Closing browser
+2024-03-25 22:20:04 INFO  - Closing browser
+2024-03-25 22:21:27 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-25 22:21:27 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-25 22:21:29 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:21:29 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:21:29 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:21:29 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:21:29 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:21:29 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:21:29 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:21:29 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:21:29 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:21:29 INFO  - Maximizing browser window
+2024-03-25 22:21:29 INFO  - Maximizing browser window
+2024-03-25 22:21:29 INFO  - Maximizing browser window
+2024-03-25 22:21:29 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:21:29 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:21:29 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:21:30 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-25 22:21:30 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-25 22:21:30 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-25 22:21:30 INFO  - Button 'Language Button' :: Clicking
+2024-03-25 22:21:30 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:21:30 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:21:30 INFO  - Closing browser
+2024-03-25 22:21:31 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:21:32 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:21:32 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-25 22:21:32 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-25 22:21:32 INFO  - Button 'Download Button' :: Clicking
+2024-03-25 22:21:33 INFO  - Closing browser
+2024-03-25 22:21:33 INFO  - Closing browser
+2024-03-25 22:22:34 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-25 22:22:34 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-25 22:22:36 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:22:36 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:22:36 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:22:36 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:22:36 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:22:36 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:22:36 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:22:36 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:22:36 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:22:36 INFO  - Maximizing browser window
+2024-03-25 22:22:36 INFO  - Maximizing browser window
+2024-03-25 22:22:36 INFO  - Maximizing browser window
+2024-03-25 22:22:36 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:22:36 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:22:36 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:22:37 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-25 22:22:37 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-25 22:22:37 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-25 22:22:37 INFO  - Button 'Language Button' :: Clicking
+2024-03-25 22:22:37 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:22:37 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:22:37 INFO  - Label 'Español Label' :: Clicking
+2024-03-25 22:22:37 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:22:38 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:22:38 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:22:39 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-25 22:22:39 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-25 22:22:39 INFO  - Button 'Download Button' :: Clicking
+2024-03-25 22:22:40 INFO  - Closing browser
+2024-03-25 22:22:40 INFO  - Closing browser
+2024-03-25 22:22:40 INFO  - Closing browser
+2024-03-25 22:24:01 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-25 22:24:01 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-25 22:24:03 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:24:03 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:24:03 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:24:03 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:24:03 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:24:03 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:24:03 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:24:03 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:24:03 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:24:03 INFO  - Maximizing browser window
+2024-03-25 22:24:03 INFO  - Maximizing browser window
+2024-03-25 22:24:03 INFO  - Maximizing browser window
+2024-03-25 22:24:03 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:24:03 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:24:03 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:24:04 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-25 22:24:04 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-25 22:24:04 INFO  - Text Field 'Search Field' :: Sending keys 'ALBERT EINSTEIN'
+2024-03-25 22:24:04 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:24:04 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:24:04 INFO  - Button 'Language Button' :: Clicking
+2024-03-25 22:24:04 INFO  - Label 'Español Label' :: Clicking
+2024-03-25 22:24:04 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:24:06 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:24:06 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:24:06 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-25 22:24:06 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-25 22:24:06 INFO  - Closing browser
+2024-03-25 22:24:06 INFO  - Button 'Download Button' :: Clicking
+2024-03-25 22:24:07 INFO  - Closing browser
+2024-03-25 22:24:07 INFO  - Closing browser
+2024-03-25 22:43:56 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-25 22:43:56 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-25 22:43:58 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:43:58 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:43:58 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:43:58 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:43:58 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:43:58 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:43:58 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:43:58 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:43:58 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:43:58 INFO  - Maximizing browser window
+2024-03-25 22:43:58 INFO  - Maximizing browser window
+2024-03-25 22:43:58 INFO  - Maximizing browser window
+2024-03-25 22:43:58 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:43:58 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:43:58 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:43:59 INFO  - Closing browser
+2024-03-25 22:43:59 INFO  - Closing browser
+2024-03-25 22:43:59 INFO  - Closing browser
+2024-03-25 22:44:33 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-25 22:44:33 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-25 22:44:34 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:44:34 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:44:34 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:44:34 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:44:34 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:44:34 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:44:34 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:44:34 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:44:34 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:44:34 INFO  - Maximizing browser window
+2024-03-25 22:44:34 INFO  - Maximizing browser window
+2024-03-25 22:44:34 INFO  - Maximizing browser window
+2024-03-25 22:44:35 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:44:35 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:44:35 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:44:35 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:44:35 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:44:35 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:44:36 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:44:36 INFO  - Button 'Language Button' :: Clicking
+2024-03-25 22:44:36 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:44:36 INFO  - Label 'Español Label' :: Clicking
+2024-03-25 22:44:36 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:44:37 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:44:37 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:44:37 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-25 22:44:37 INFO  - Closing browser
+2024-03-25 22:44:37 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-25 22:44:38 INFO  - Button 'Download Button' :: Clicking
+2024-03-25 22:44:38 INFO  - Closing browser
+2024-03-25 22:44:38 INFO  - Closing browser
+2024-03-25 22:47:25 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-25 22:47:25 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-25 22:47:27 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:47:27 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:47:27 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:47:27 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:47:27 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:47:27 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:47:27 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:47:27 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:47:27 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:47:27 INFO  - Maximizing browser window
+2024-03-25 22:47:27 INFO  - Maximizing browser window
+2024-03-25 22:47:27 INFO  - Maximizing browser window
+2024-03-25 22:47:27 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:47:27 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:47:27 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:47:28 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:47:28 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:47:28 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:47:28 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:47:28 INFO  - Button 'Language Button' :: Clicking
+2024-03-25 22:47:28 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:47:28 INFO  - Label 'Español Label' :: Clicking
+2024-03-25 22:47:28 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:47:30 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:47:30 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:47:30 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-25 22:47:30 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-25 22:47:30 INFO  - Button 'Download Button' :: Clicking
+2024-03-25 22:47:30 INFO  - Closing browser
+2024-03-25 22:47:31 INFO  - Closing browser
+2024-03-25 22:47:31 INFO  - Closing browser
+2024-03-25 22:48:27 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-25 22:48:27 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-25 22:48:28 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:48:28 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:48:28 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:48:28 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:48:28 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:48:28 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:48:28 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:48:28 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:48:28 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:48:28 INFO  - Maximizing browser window
+2024-03-25 22:48:28 INFO  - Maximizing browser window
+2024-03-25 22:48:28 INFO  - Maximizing browser window
+2024-03-25 22:48:28 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:48:28 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:48:28 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:48:29 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:48:29 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:48:29 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:48:29 INFO  - Button 'Language Button' :: Clicking
+2024-03-25 22:48:29 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:48:29 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:48:30 INFO  - Label 'Español Label' :: Clicking
+2024-03-25 22:48:30 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:48:31 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:48:31 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:48:31 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-25 22:48:31 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-25 22:48:32 INFO  - Closing browser
+2024-03-25 22:48:32 INFO  - Button 'Download Button' :: Clicking
+2024-03-25 22:48:32 INFO  - Closing browser
+2024-03-25 22:48:32 INFO  - Closing browser
+2024-03-25 22:49:17 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-25 22:49:17 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-25 22:49:18 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:49:18 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:49:18 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:49:18 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:49:18 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:49:18 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:49:18 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:49:18 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:49:18 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:49:18 INFO  - Maximizing browser window
+2024-03-25 22:49:18 INFO  - Maximizing browser window
+2024-03-25 22:49:18 INFO  - Maximizing browser window
+2024-03-25 22:49:19 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:49:19 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:49:19 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:49:20 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:49:20 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:49:20 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:49:20 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:49:20 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:49:20 INFO  - Button 'Language Button' :: Clicking
+2024-03-25 22:49:20 INFO  - Label 'Español Label' :: Clicking
+2024-03-25 22:49:20 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:49:21 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:49:21 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:49:21 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-25 22:49:21 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-25 22:49:22 INFO  - Button 'Download Button' :: Clicking
+2024-03-25 22:49:22 INFO  - Closing browser
+2024-03-25 22:49:22 INFO  - Closing browser
+2024-03-25 22:49:23 INFO  - Closing browser
+2024-03-25 22:51:01 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-25 22:51:01 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-25 22:51:02 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:51:02 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:51:02 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:51:02 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:51:02 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:51:02 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:51:02 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:51:02 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:51:02 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:51:02 INFO  - Maximizing browser window
+2024-03-25 22:51:02 INFO  - Maximizing browser window
+2024-03-25 22:51:02 INFO  - Maximizing browser window
+2024-03-25 22:51:02 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:51:02 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:51:02 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:51:03 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:51:03 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:51:03 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:51:03 INFO  - Button 'Language Button' :: Clicking
+2024-03-25 22:51:03 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:51:03 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:51:03 INFO  - Label 'Español Label' :: Clicking
+2024-03-25 22:51:03 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:51:05 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:51:05 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:51:05 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-25 22:51:05 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-25 22:51:06 INFO  - Closing browser
+2024-03-25 22:51:06 INFO  - Closing browser
+2024-03-25 22:51:06 INFO  - Button 'Download Button' :: Clicking
+2024-03-25 22:51:07 INFO  - Closing browser
+2024-03-25 22:51:42 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-25 22:51:42 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-25 22:51:43 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:51:43 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:51:43 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:51:43 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:51:43 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:51:43 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:51:43 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:51:43 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:51:43 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:51:43 INFO  - Maximizing browser window
+2024-03-25 22:51:43 INFO  - Maximizing browser window
+2024-03-25 22:51:43 INFO  - Maximizing browser window
+2024-03-25 22:51:44 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:51:44 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:51:44 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:51:45 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:51:45 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:51:45 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:51:45 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:51:45 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:51:45 INFO  - Button 'Language Button' :: Clicking
+2024-03-25 22:51:45 INFO  - Label 'Español Label' :: Clicking
+2024-03-25 22:51:45 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:51:46 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:51:46 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:51:46 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-25 22:51:46 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-25 22:51:47 INFO  - Closing browser
+2024-03-25 22:51:47 INFO  - Button 'Download Button' :: Clicking
+2024-03-25 22:51:48 INFO  - Closing browser
+2024-03-25 22:51:48 INFO  - Closing browser
+2024-03-25 22:53:45 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-25 22:53:45 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-25 22:53:46 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:53:46 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:53:46 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-25 22:53:46 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:53:46 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:53:46 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-25 22:53:46 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:53:46 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:53:46 INFO  - Browser 'CHROME' ready...
+2024-03-25 22:53:46 INFO  - Maximizing browser window
+2024-03-25 22:53:46 INFO  - Maximizing browser window
+2024-03-25 22:53:46 INFO  - Maximizing browser window
+2024-03-25 22:53:47 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:53:47 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:53:47 INFO  - Navigate to url - 'https://wikipedia.com'
+2024-03-25 22:53:48 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:53:48 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:53:48 INFO  - Text Field 'Search Field' :: Sending keys 'Albert Einstein'
+2024-03-25 22:53:48 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:53:48 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:53:48 INFO  - Button 'Language Button' :: Clicking
+2024-03-25 22:53:48 INFO  - Label 'Español Label' :: Clicking
+2024-03-25 22:53:48 INFO  - Button 'Search Button' :: Clicking
+2024-03-25 22:53:49 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:53:49 INFO  - Label 'Download PDF Button' :: Clicking
+2024-03-25 22:53:49 INFO  - CheckBox 'Tools Button' :: Clicking
+2024-03-25 22:53:50 INFO  - Button 'Page Information Button' :: Clicking
+2024-03-25 22:53:50 INFO  - Button 'Download Button' :: Clicking
+2024-03-25 22:53:50 INFO  - Closing browser
+2024-03-25 22:53:50 INFO  - Closing browser
+2024-03-25 22:53:51 INFO  - Closing browser
+2024-03-28 10:16:04 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-28 10:16:04 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-28 10:16:15 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-28 10:16:15 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-28 10:16:15 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-28 10:16:15 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-28 10:16:15 INFO  - Browser 'CHROME' ready...
+2024-03-28 10:16:15 INFO  - Browser 'CHROME' ready...
+2024-03-28 10:16:15 INFO  - Maximizing browser window
+2024-03-28 10:16:15 INFO  - Maximizing browser window
+2024-03-28 10:16:15 INFO  - Navigate to url - 'https://https://the-internet.herokuapp.com'
+2024-03-28 10:16:15 INFO  - Navigate to url - 'https://https://the-internet.herokuapp.com'
+2024-03-28 10:16:25 INFO  - Link 'Sortable Data Tables' :: Clicking
+2024-03-28 10:16:25 INFO  - Link 'JavaScript Alerts' :: Clicking
+2024-03-28 10:16:35 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./Downloads}
+2024-03-28 10:16:35 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-28 10:16:37 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-28 10:16:37 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-28 10:16:37 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-28 10:16:37 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-28 10:16:37 INFO  - Browser 'CHROME' ready...
+2024-03-28 10:16:37 INFO  - Browser 'CHROME' ready...
+2024-03-28 10:16:37 INFO  - Maximizing browser window
+2024-03-28 10:16:37 INFO  - Maximizing browser window
+2024-03-28 10:16:37 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2024-03-28 10:16:37 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2024-03-28 10:16:38 INFO  - Link 'Sortable Data Tables' :: Clicking
+2024-03-28 10:16:38 INFO  - Link 'JavaScript Alerts' :: Clicking
+2024-03-28 10:16:38 INFO  - Button 'Click for JS alert' :: Clicking
+2024-03-28 10:16:38 INFO  - Accepting browser alert
+2024-03-28 10:16:38 INFO  - Closing browser
+2024-03-28 10:16:38 INFO  - Label 'due 1' :: Getting text from element
+2024-03-28 10:16:38 INFO  - Label 'due 1' :: Element's text: [$50.00]
+2024-03-28 10:16:38 INFO  - Label 'due 2' :: Getting text from element
+2024-03-28 10:16:38 INFO  - Label 'due 2' :: Element's text: [$51.00]
+2024-03-28 10:16:38 INFO  - Label 'due 3' :: Getting text from element
+2024-03-28 10:16:38 INFO  - Label 'due 3' :: Element's text: [$100.00]
+2024-03-28 10:16:38 INFO  - Label 'due 4' :: Getting text from element
+2024-03-28 10:16:38 INFO  - Label 'due 4' :: Element's text: [$50.00]
+2024-03-28 10:16:38 INFO  - Closing browser
