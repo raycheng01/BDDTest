@@ -1,5 +1,5 @@
 {
   "protocol": "https",
-  "domain": "wikipedia.com",
+  "domain": "the-internet.herokuapp.com",
   "wait": 10
 }
