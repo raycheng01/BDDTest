@@ -1,5 +1,6 @@
 package stepdefinitions;
 
+import io.cucumber.java.en.And;
 import utils.StringUtils;
 import io.cucumber.java.en.Then;
 import org.testng.Assert;
@@ -9,6 +10,12 @@ import static io.qameta.allure.Allure.step;
 
 public class DataTableSteps {
     DataTablesPage dataTablesPage = new DataTablesPage();
+
+    @And("I check that {string} is correct")
+    public void checkString(String name) {
+        String correctstring = "Hello";
+        Assert.assertTrue(name.equals(correctstring), "String is not the same");
+    }
 
     @Then("Sum of the Due columns is {double}")
     public void checkSumOfColumns(Double sum) {
