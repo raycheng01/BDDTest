@@ -13,6 +13,7 @@ public class DataTableSteps {
 
     @And("I check that {string} is correct")
     public void checkString(String name) {
+        step("Check that string is correct");
         String correctstring = "Hello";
         Assert.assertTrue(name.equals(correctstring), "String is not the same");
     }
